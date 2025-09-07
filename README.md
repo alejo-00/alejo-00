@@ -22,7 +22,7 @@ Hello, I'm Alejo Lescano!
 ## 🤝 Connect with me
 
 <p align="center">
-	<a><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>alejolescano3@gmail.com</a>
+	<p><a><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>alejolescano3@gmail.com</a></p>
 	<a href="https://www.linkedin.com/in/alejo-lescano/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
