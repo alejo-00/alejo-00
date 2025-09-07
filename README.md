@@ -22,8 +22,8 @@ Hello, I'm Alejo Lescano!
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="mailto:alejolescano3@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/alejo-lescano/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>alejolescano3@gmail.com</a>
+	<a href="https://www.linkedin.com/in/alejo-lescano/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 💻 My Tech Stack
