@@ -29,8 +29,8 @@ Hello, I'm Alejo Lescano!
 ## 💻 My Tech Stack
 
 <p>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23FF6F00.svg?logo=javascript&logoColor=white"></a>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/css-%23FF6F00.svg?logo=css&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?logo=javascript&logoColor=white"></a>
+    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-%23FF6F00.svg?logo=css&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
