@@ -29,7 +29,7 @@ Hello, I'm Alejo Lescano!
 ## 💻 My Tech Stack
 
 <p>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23FF6F00.svg?logo=javascript&logoColor=white"></a>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%#F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-%23FF6F00.svg?logo=css&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23FF6F00.svg?logo=html&logoColor=white"></a>
     <a href=""><img alt="React" src="https://img.shields.io/badge/React-%23E34F26.svg?style=plastic&logo=react&logoColor=white"></a>
