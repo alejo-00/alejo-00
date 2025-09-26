@@ -29,13 +29,32 @@ Hello, I'm Alejo Lescano!
 ## 💻 My Tech Stack
 
 <p>
-    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%#F7DF1E.svg?logo=javascript&logoColor=white"></a>
-    <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-%23FF6F00.svg?logo=css&logoColor=white"></a>
-    <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23FF6F00.svg?logo=html&logoColor=white"></a>
-    <a href=""><img alt="React" src="https://img.shields.io/badge/React-%23E34F26.svg?style=plastic&logo=react&logoColor=white"></a>
-    <a href=""><img alt="JQuery" src="https://img.shields.io/badge/JQuery-%23E34F26.svg?style=plastic&logo=jquery&logoColor=white"></a>
-    <a href=""><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23E34F26.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
-    <a href=""><img alt="Figma" src="https://img.shields.io/badge/Figma-%23E34F26.svg?style=plastic&logo=figma&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
-    <a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
+  <a href="">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  <a href="">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>
+  <a href="">
+    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+  </a>
+  <a href="">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white">
+  </a>
+  <a href="">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
 </p>
+
